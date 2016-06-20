@@ -1,0 +1,6 @@
+C:\Users\student\Documents\GitHub\Week2Day1\Day1 project2\Day1 project2\bin\Debug\Day1 project2.exe.config
+C:\Users\student\Documents\GitHub\Week2Day1\Day1 project2\Day1 project2\obj\Debug\Day1 project2.csprojResolveAssemblyReference.cache
+C:\Users\student\Documents\GitHub\Week2Day1\Day1 project2\Day1 project2\bin\Debug\Day1 project2.exe
+C:\Users\student\Documents\GitHub\Week2Day1\Day1 project2\Day1 project2\bin\Debug\Day1 project2.pdb
+C:\Users\student\Documents\GitHub\Week2Day1\Day1 project2\Day1 project2\obj\Debug\Day1 project2.exe
+C:\Users\student\Documents\GitHub\Week2Day1\Day1 project2\Day1 project2\obj\Debug\Day1 project2.pdb

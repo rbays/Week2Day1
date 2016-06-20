@@ -1,0 +1,6 @@
+C:\Users\student\Documents\GitHub\Week2Day1\Day1 riddles\Day1 riddles\bin\Debug\Day1 riddles.exe.config
+C:\Users\student\Documents\GitHub\Week2Day1\Day1 riddles\Day1 riddles\bin\Debug\Day1 riddles.exe
+C:\Users\student\Documents\GitHub\Week2Day1\Day1 riddles\Day1 riddles\bin\Debug\Day1 riddles.pdb
+C:\Users\student\Documents\GitHub\Week2Day1\Day1 riddles\Day1 riddles\obj\Debug\Day1 riddles.csprojResolveAssemblyReference.cache
+C:\Users\student\Documents\GitHub\Week2Day1\Day1 riddles\Day1 riddles\obj\Debug\Day1 riddles.exe
+C:\Users\student\Documents\GitHub\Week2Day1\Day1 riddles\Day1 riddles\obj\Debug\Day1 riddles.pdb

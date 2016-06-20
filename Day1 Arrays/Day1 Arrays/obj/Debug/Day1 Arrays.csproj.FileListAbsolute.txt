@@ -1,0 +1,6 @@
+C:\Users\student\Documents\GitHub\Week2Day1\Day1 Arrays\Day1 Arrays\bin\Debug\Day1 Arrays.exe.config
+C:\Users\student\Documents\GitHub\Week2Day1\Day1 Arrays\Day1 Arrays\obj\Debug\Day1 Arrays.csprojResolveAssemblyReference.cache
+C:\Users\student\Documents\GitHub\Week2Day1\Day1 Arrays\Day1 Arrays\bin\Debug\Day1 Arrays.exe
+C:\Users\student\Documents\GitHub\Week2Day1\Day1 Arrays\Day1 Arrays\bin\Debug\Day1 Arrays.pdb
+C:\Users\student\Documents\GitHub\Week2Day1\Day1 Arrays\Day1 Arrays\obj\Debug\Day1 Arrays.exe
+C:\Users\student\Documents\GitHub\Week2Day1\Day1 Arrays\Day1 Arrays\obj\Debug\Day1 Arrays.pdb

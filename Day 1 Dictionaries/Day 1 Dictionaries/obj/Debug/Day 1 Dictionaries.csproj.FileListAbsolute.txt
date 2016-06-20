@@ -1,1 +1,6 @@
 C:\Users\student\Documents\GitHub\Week2Day1\Day 1 Dictionaries\Day 1 Dictionaries\bin\Debug\Day 1 Dictionaries.exe.config
+C:\Users\student\Documents\GitHub\Week2Day1\Day 1 Dictionaries\Day 1 Dictionaries\bin\Debug\Day 1 Dictionaries.exe
+C:\Users\student\Documents\GitHub\Week2Day1\Day 1 Dictionaries\Day 1 Dictionaries\bin\Debug\Day 1 Dictionaries.pdb
+C:\Users\student\Documents\GitHub\Week2Day1\Day 1 Dictionaries\Day 1 Dictionaries\obj\Debug\Day 1 Dictionaries.csprojResolveAssemblyReference.cache
+C:\Users\student\Documents\GitHub\Week2Day1\Day 1 Dictionaries\Day 1 Dictionaries\obj\Debug\Day 1 Dictionaries.exe
+C:\Users\student\Documents\GitHub\Week2Day1\Day 1 Dictionaries\Day 1 Dictionaries\obj\Debug\Day 1 Dictionaries.pdb

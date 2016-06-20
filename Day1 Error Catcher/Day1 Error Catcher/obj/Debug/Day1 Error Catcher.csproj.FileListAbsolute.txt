@@ -1,0 +1,6 @@
+C:\Users\student\Documents\GitHub\Week2Day1\Day1 Error Catcher\Day1 Error Catcher\bin\Debug\Day1 Error Catcher.exe.config
+C:\Users\student\Documents\GitHub\Week2Day1\Day1 Error Catcher\Day1 Error Catcher\bin\Debug\Day1 Error Catcher.exe
+C:\Users\student\Documents\GitHub\Week2Day1\Day1 Error Catcher\Day1 Error Catcher\bin\Debug\Day1 Error Catcher.pdb
+C:\Users\student\Documents\GitHub\Week2Day1\Day1 Error Catcher\Day1 Error Catcher\obj\Debug\Day1 Error Catcher.csprojResolveAssemblyReference.cache
+C:\Users\student\Documents\GitHub\Week2Day1\Day1 Error Catcher\Day1 Error Catcher\obj\Debug\Day1 Error Catcher.exe
+C:\Users\student\Documents\GitHub\Week2Day1\Day1 Error Catcher\Day1 Error Catcher\obj\Debug\Day1 Error Catcher.pdb
